@@ -1,2 +1,2 @@
 # hello-world-python
-learn python - from zero to hero
+i want to learn python - from zero to hero
